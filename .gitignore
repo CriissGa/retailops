@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff
+.ruff_cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
