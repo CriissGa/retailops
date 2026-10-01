@@ -1,0 +1,5 @@
+sale_id,store_id,product_id,quantity,unit_price,sale_date
+1,S001,P001,5,4.5,1/1/2026
+2,S002,P001,8,4.5,1/1/2026
+3,S001,P002,3,7.99,1/2/2026
+4,S003,P003,-2,12.5,1/2/2026
